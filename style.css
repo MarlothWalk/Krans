@@ -317,7 +317,12 @@ em
 .question
 {
 	padding-top: 25px;
-	padding-bottom:25px;
+	padding-bottom:25px;	
+}
+.introdesc
+{
+	width:40%;
+	margin:auto;
 }
 .mark
 {

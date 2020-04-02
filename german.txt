@@ -25,6 +25,9 @@ Besonderes:  Die kleine nierenförmige Frucht ist braun gefleckt und erinnert an
 Link:
 http://iscantree.co.za/ozoroa-engleri-treurharpuisboom-weeping-resintree
 --
+EXTRA
+<img src="images/beginning.jpg" src="Beginning of track" />
+--
 Rote Buschweide (Red Bushwillow) 
 Nr. 4 (hier beginnt der Pfad. Beachten sie auch die große Aloe Marlothii direkt daneben) 
 Beschreibung: Die Rote Buschweide ist ein attraktiver kleiner Laubbaum etwa 3-10 m hoch. Er hat einen kurzen und oft direkt beim Boden in zwei Teile gespalteten Stamm.   
@@ -71,6 +74,7 @@ Links:
 http://pza.sanbi.org/gymnosporia-buxifolia
 --
 EXTRA
+<img src="images/river.jpg" alt="River"/>
 <p><span class="mark">?</span> - Testen sie Ihr Wissen und bestimmen sie den Baum bevor sie das Fragezeichen zur Seite schieben um die Antwort zu sehen.
 --
 Raupenschote (Caterpillar Bush) 
@@ -115,6 +119,7 @@ http://pza.sanbi.org/sclerocarya-birrea
 --
 EXTRA
 <p>Folgen sie den Tierspuren zum nahegelegenen Weiher und lauschen sie dem vielfältigen Vogelgezwitscher der verschiedenen Arten die dort leben.</p>
+<img src="images/dam.jpg" alt="Picture of the dam">
 --
 Ahnenbaum (Leadwood) 
 Nr. 14 (5 m links)
@@ -160,6 +165,7 @@ Link:
 http://tropical.theferns.info/viewtropical.php?id=Albizia+harveyi
 --
 EXTRA
+<img src="images/end.jpg" alt="Seat near tree">
 <p>Setzen sie sich unter diesen schönen Baum und genießen sie die Aussicht. Lauschen sie den Geräuschen der Flusspferde welche in diesem Teil des Flusses heimisch sind. Nachts durchstreifen sie die Gegend, und gehen oft kilometerweit um gutes Gras zu finden. Zeitweise grasen sie tagsüber oder sie liegen auf den Sandbänken im und am Fluss. </p>
 <p>Identifizieren sie den Baum mit der großen weitausladenden Krone, einem einzelnen Stamm und Beeren bevor sie den Platz verlassen. Kontrollieren sie ihre Antwort beim Fragezeichen.</p>
 <p>War es richtig?</p>

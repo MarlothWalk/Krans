@@ -25,6 +25,9 @@ Interessanthede: Die klein niervormige sade het bruin kolletjies wat soos waterp
 Skakel: 
 http://iscantree.co.za/ozoroa-engleri-treurharpuisboom-weeping-resintree
 --
+EXTRA
+<img src="images/beginning.jpg" src="Beginning of track" />
+--
 Rooi Boswilg
 Nommer 4. (aan regterkant) (Die wandelroete begin hier. Neem kennis van die groot Marlothii Aalwyn langs die boom) 
 Beskrywing: ‘n Aantreklike, bladwisselende, kleinerige boompie, 3-10 m hoog, met ‘n kort, dikwels krom stam en wydspreidende oneweredige kroon.
@@ -71,6 +74,7 @@ Skakel:
 http://pza.sanbi.org/gymnosporia-buxifolia
 --
 EXTRA
+<img src="images/river.jpg" alt="River"/>
 <p><span class="mark">?</span> - Noem die drie bome en swaai die vraagteken om die antwoord te ontbloot.</p>
 --
 Harige rusperboontjie
@@ -115,6 +119,7 @@ http://pza.sanbi.org/sclerocarya-birrea
 --
 EXTRA
 <p>Volg nou die diere paadjie tot by die nabye watergat en let op die verskeie voëls wat in hierdie besondere area woon.</p>
+<img src="images/dam.jpg" alt="Picture of the dam">
 --
 Hardekool
 Nommer 14. (5 m verder aan op linkerkant) 
@@ -159,6 +164,7 @@ Skakel:
 http://tropical.theferns.info/viewtropical.php?id=Albizia+harveyi
 --
 EXTRA
+<img src="images/end.jpg" alt="Seat near tree">
 <p>Neem plaas onder die pragtige boom vir ‘n oomblik. Neem die landskap in en luister na die voëls en die seekoeie wat hierdie deel van die rivier bewoon. Hulle is meestal naglewende diere wat etlike kilometers aflê om na kos te soek. Soms wei hulle bedags op die oewers van die rivier.</p>
 <p>Voordat u aanstap, identifiseer die boom met die groot spreidende kroon, enkele stam en bessies. Verifiëer u antwoord.</p>
 <p>Was u korrek?</p>
