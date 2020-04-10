@@ -75,7 +75,7 @@ http://pza.sanbi.org/gymnosporia-buxifolia
 --
 EXTRA
 <img src="images/river.jpg" alt="River"/>
-<p><span class="mark">?</span> - Testen sie Ihr Wissen und bestimmen sie den Baum bevor sie das Fragezeichen zur Seite schieben um die Antwort zu sehen.
+<p><img class="questionmark" src="images/question.png" /> - Testen sie Ihr Wissen und bestimmen sie den Baum bevor sie das Fragezeichen zur Seite schieben um die Antwort zu sehen.
 --
 Raupenschote (Caterpillar Bush) 
 Nr. 9 (7 m links, Flusseite)
@@ -130,7 +130,7 @@ Link:
 http://pza.sanbi.org/combretum-imberbe
 --
 EXTRA
-<p><span class="mark">?</span> - Testen sie Ihr Wissen und bestimmen sie den Baum bevor sie das Fragezeichen zur Seite schieben um die Antwort zu sehen.</p>
+<p><img class="questionmark" src="images/question.png" /> - Testen sie Ihr Wissen und bestimmen sie den Baum bevor sie das Fragezeichen zur Seite schieben um die Antwort zu sehen.</p>
 --
 Fehlbaum (Silver Cluster Leaf) 
 Nr. 15 (35 m links)

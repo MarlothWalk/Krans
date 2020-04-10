@@ -75,7 +75,7 @@ http://pza.sanbi.org/gymnosporia-buxifolia
 --
 EXTRA
 <img style="padding-bottom:40px;" src="images/river.jpg" alt="River"/>
-<p><span class="mark">?</span> - Test your knowledge. Name this tree before you swing the tag to reveal its name.
+<p><img class="questionmark" src="images/question.png" /> - Test your knowledge. Name this tree before you swing the tag to reveal its name.
 --
 Caterpillar Bush
 Number 9. (7 m on the left. Riverside.)
@@ -130,7 +130,7 @@ Other Links:
 http://pza.sanbi.org/combretum-imberbe
 --
 EXTRA
-<p><span class="mark">?</span> - Test your knowledge. Name this tree before you swing the tag to reveal its name.</p>
+<p><img class="questionmark" src="images/question.png" /> - Test your knowledge. Name this tree before you swing the tag to reveal its name.</p>
 --
 Silver Cluster Leaf
 Number 15. (35 m on left.)
@@ -167,7 +167,7 @@ http://tropical.theferns.info/viewtropical.php?id=Albizia+harveyi
 EXTRA
 <img src="images/end.jpg" alt="Seat near tree">
 <p>Have a seat under this lovely tree. For the moment, take in the scenery and listen for the hippos that inhabit this part of the river. They are largely nocturnal, ranging many kilometres to find suitable grasses. At times they graze during the day or lie on the river banks.</p>
-<p><span class="mark">?</span> Before leaving, identify this tree – large, spreading crown, single trunk, berries. Check your answer. <img src="" /></p>
+<p><img class="questionmark" src="images/question.png" /> Before leaving, identify this tree – large, spreading crown, single trunk, berries. Check your answer. <img src="" /></p>
 <p>Were you correct?</p>
 <p>As you continue walking along the track you’ll notice huge dark rocks, with striking white striations. These are Amphibolite rocks, a coarse-grained metamorphic rock formed under heat and pressure.</p>
 --

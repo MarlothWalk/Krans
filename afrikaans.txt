@@ -75,7 +75,7 @@ http://pza.sanbi.org/gymnosporia-buxifolia
 --
 EXTRA
 <img src="images/river.jpg" alt="River"/>
-<p><span class="mark">?</span> - Noem die drie bome en swaai die vraagteken om die antwoord te ontbloot.</p>
+<p><img class="questionmark" src="images/question.png" /> - Noem die drie bome en swaai die vraagteken om die antwoord te ontbloot.</p>
 --
 Harige rusperboontjie
 Nommer 9 (7 m na links. Rivierkant) 
@@ -129,7 +129,7 @@ Interessanthede:  Die hout word uiters dig en swaar, vandaar die naam.  Dis ‘n
 Skakel: https://www.sabisabi.com/wildfacts/leadwood-tree/
 --
 EXTRA
-<p><span class="mark">?</span> - Noem die drie bome en swaai die vraagteken om die antwoord te ontbloot.</p>
+<p><img class="questionmark" src="images/question.png" /> - Noem die drie bome en swaai die vraagteken om die antwoord te ontbloot.</p>
 --
 Vaalboom
 Nommer  15. (35 m verder aan op linkerkant) 

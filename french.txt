@@ -80,7 +80,7 @@ http://pza.sanbi.org/gymnosporia-buxifolia
 --
 EXTRA
 <img src="images/river.jpg" alt="River"/>
-<p><span class="mark">?</span> - Testez vos connaissances. Saurez-vous retrouver le nom des cet arbre ? découvrez la réponse en retournant le panneau.</p>
+<p><img class="questionmark" src="images/question.png" /> - Testez vos connaissances. Saurez-vous retrouver le nom des cet arbre ? découvrez la réponse en retournant le panneau.</p>
 --
 Caterpillar Bush.  
 Numéro 9. (7 mètres sur la gauche côté rivière) 
@@ -136,7 +136,7 @@ Lien utile :
 http://pza.sanbi.org/combretum-imberbe
 --
 EXTRA
-<p><span class="mark">?</span>Testez vos connaissances. Saurez-vous retrouver le nom de cet arbre? Vérifiez la réponse en retournant le panneau <span class="mark">?</span></p>
+<p><img class="questionmark" src="images/question.png" />Testez vos connaissances. Saurez-vous retrouver le nom de cet arbre? Vérifiez la réponse en retournant le panneau <img class="questionmark" src="images/question.png" /></p>
 --
 Silver Cluster Leaf
 Numéro 15.  (35 mètres sur la gauche) 
@@ -173,7 +173,7 @@ http://tropical.theferns.info/viewtropical.php?id=Albizia+harveyi
 EXTRA
 <img src="images/end.jpg" alt="Seat near tree">
 <p>Prenez le temps de vous asseoir sous cet arbre magnifique. Profitez pleinement de ce paysage en écoutant les bruits étonnants que nous réservent les hippopotames, presque toujours présent à cet endroit de la rivière. Les hippos sont avant tout des animaux nocturnes qui parcourent de longues distances pour trouver l’herbe qui leur convient près de, ou dans la rivière.</p>
-<p>On comprend mieux ainsi, pourquoi on les observe le jour broutant parfois, mais surtout allongés en mode récupération le long des berges ! Avant de quitter ce lieu, identifiez cet arbre avec le panneau <span class="mark">?</span></p>
+<p>On comprend mieux ainsi, pourquoi on les observe le jour broutant parfois, mais surtout allongés en mode récupération le long des berges ! Avant de quitter ce lieu, identifiez cet arbre avec le panneau <img class="questionmark" src="images/question.png" /></p>
 <p>Couronne de feuillage généreuse, un seul tronc, donnant des baies délicieuses. Vérifiez votre réponse en retournant le panneau ? Vous avez bon !!!!??</p>
 <p>En continuant de marcher le long du sentier, vous noterez de gros rochers de couleur foncé avec des rayures blanches bien visibles.</p>
 <p>Il s’agit de rochers métamorphique « Amphibolite » veinés grossièrement qui se sont formé sous l’effet de la chaleur et de la pression.</p>

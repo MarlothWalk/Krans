@@ -75,7 +75,7 @@ http://pza.sanbi.org.gymnosporia-buxifolia
 --
 EXTRA
 <img src="images/river.jpg" alt="River"/>
-<p><span class="mark">?</span> - Njengoba usahamba phasi kwemgwaco , buka Inhlaba lekhona etjanini ikakhulukati kusancele.
+<p><img class="questionmark" src="images/question.png" /> - Njengoba usahamba phasi kwemgwaco , buka Inhlaba lekhona etjanini ikakhulukati kusancele.
 --
 Umsindzandlovana ( Caterpillar Bush ). 
 Nombolo 9. [ emamitha lasikhombisa  kusencele ngasenkomazi]
@@ -130,7 +130,7 @@ Lokunye lokuchumene naloku:
 http://pza.sanbi.org/combretur-imberbe
 --
 EXTRA
-<p><span class="mark">?</span> - Tivivinye umcondvo wakho ngekutsi usho ligama lesihlahla  ngembi kwekufundza leligama leligaciswe lesihlahla.</p>
+<p><img class="questionmark" src="images/question.png" /> - Tivivinye umcondvo wakho ngekutsi usho ligama lesihlahla  ngembi kwekufundza leligama leligaciswe lesihlahla.</p>
 --
 Lingwelelimhlophe ( Silver Cluster Leaf ).
 Nombolo 15.( emamitha langemashumi lamatsatfu  nesihlanu kusencele)
