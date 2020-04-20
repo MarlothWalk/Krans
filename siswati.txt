@@ -118,7 +118,6 @@ Lokunye lokuchumene naloku:
 http://pza.sanbi.org.sclerocarya-birrea
 --
 EXTRA
-<p>Follow the animal track to the nearby waterhole and listen to the many birds which live in this area.</p>
 <img src="images/dam.jpg" alt="Picture of the dam">
 --
 Timphondvotendlovu ( Leadwood ).
