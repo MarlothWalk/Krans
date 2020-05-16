@@ -51,7 +51,7 @@ EXTRA
 --
 Skurweblaar rosyntjie
 Nommer 6. (40m aan regterkant) 
-Beskrywing: Die Skurweblaar rosyntjie het ‘n unieke 4 kantige stam. Dit kan hoogtes van 5m bereik en rank gewoonlik in bome in.  
+Beskrywing: Die Skurweblaar rosyntjie het ‘n unieke 4 kantige stam. Dit kan hoogtes van 5m bereik en rank gewoonlik in bome op.  
 Ekologie: ‘n Taai omhulsel vorm om die vrugte van hierdie boom wat gewild is onder vlakvarke, antelope en bobbejane. Die vrugte is eetbaar, smaaklik en gewild onder voëls.
 Interessanthede: Die vrugte kan vir 2 tot 3 dae in water geweek word om ‘n heerlike verfrissende drankie te maak. Suid Afrikaanse nommer 459.2.
 Skakel:
@@ -78,10 +78,9 @@ EXTRA
 <p><img class="questionmark" src="images/question.png" /> - Noem die drie bome en swaai die vraagteken om die antwoord te ontbloot.</p>
 --
 Harige rusperboontjie
-Nommer 9 (7 m na links. Rivierkant) 
+Nommer 9 (7m na links. Rivierkant) 
 Beskrywing: Die Harige Rusperboontjie bos is ‘n klein boompie of struik, tot 5m hoog. Dit het ‘n spreiende kroon met verskeie takke en stekels. Die bas het ‘n  kurkagtige tekstuur.
-Ekologie: Blomme is klein ertjie vormig, helder pers wat bye lok. Die Bloukuifloerie eet graag die
-peule van hierdie plant, terwyl hulle hoofsaaklik vrugte eters is.
+Ekologie: Blomme is klein ertjie vormig, helder pers wat bye lok. Die Bloukuifloerie eet graag die peule van hierdie plant, terwyl hulle hoofsaaklik vrugte eters is.
 Interessanthede: Die lang harige goue bruin peule verleen aan die plant sy naam. Ekstrakte van hierdie plant kan gebruik word om malaria mee te behandel. Suid Afrikaanse nommer 230.
 Skakel:
 https://treesa.org/ormocarpum-trichocarpum/
@@ -111,7 +110,7 @@ Skakel:
 http://pza.sanbi.org/berchemia-discolor
 --
 Maroela
-Nommer 13. (12 m verder op regterkant)
+Nommer 13. (12m verder op regterkant)
 Beskrywing: Die Maroela is ‘n bladwissellende boom met ‘n regop stam en geronde kroon. Manlike en vroulike bome kom afsonderlik voor. Die blomme op die manlike bome produseer stuifmeel. Die vroulike bome produseer vrugte vanaf Februarie tot Junie.
 Ekologie: Olifante, antelope, kameelperde, zebras en die larwe van die groen brandwurm mot eet die  blare.
 Interessanthede: Maroelas is alom bekend vir die alkoholiese bier, Mukumbi, wat oorspronklik deur die Venda mense gebrou is. Dit is kommersiëel beskikbaar as die Amarula likeur. Suid Afrikaanse nommer 360.
@@ -150,14 +149,14 @@ http://pza.sanbi.org/peltophorum-africanum
 --
 Sebrahout. Ook bekend as Afrika Swarthout.
 Nommer 17. (65m op linkerkant) 
-Beskrywing: Sebrahout of Afrika ebbehout, is ‘n groot struik of ‘n klein onreëlmatige boompie wat tot 6 m hoog groei.  
+Beskrywing: Sebrahout of Afrika ebbehout, is ‘n groot struik of ‘n klein onreëlmatige boompie wat tot 6m hoog groei.  
 Ekologie: Sy voorkeurhabitat is bosse en knoppiesdoring savanna waar hierdie bome dikwels voorkom in rotsagtige plekke en op termiethope.
 Interessanthede: Olifante sal die boom verwoes om die wortels te kan vreet. Suid Afrikaanse nommer 232.
 Skakel: 
 https://www.operationwildflower.org.za
 --
 Bosveld Valsdoring. Ook bekend as die Bleekblaarboom
-Nommer 18 (10 m verder aan die linkerkant
+Nommer 18 (10m verder aan die linkerkant)
 Beskrywing: Bladwisselend met ‘n geronde kroon, 5-15m hoog. Uitloopsels groei soms laag van die grond af uit die hoof stam, en  bome met meer as een stam is nie ongewoon nie.
 Ekologie: Ape eet die blare en die roomkleurige blomme trek vlinders aan. Die blomme verander na langerige peule.  
 Interessanthede:  Die Zoeloes gebruik die plant vir tradisionele medisyne om senuwee probleme te behandel en om ‘n trans te induseer. Die bas word met water gemeng wat ‘n skuim maak, en die konkoksie word gebruik om koors te behandel. Suid Afrikaanse nommer 155.
