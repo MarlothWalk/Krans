@@ -171,14 +171,6 @@ EXTRA
 <p>Were you correct?</p>
 <p>As you continue walking along the track you’ll notice huge dark rocks, with striking white striations. These are Amphibolite rocks, a coarse-grained metamorphic rock formed under heat and pressure.</p>
 --
-Sour Plum. 
-Number 19. (95 m on left.)
-Description: This is a deciduous tree up to 6 m tall with an open crown. The fruit is oval, 25 mm long, a glossy, deep orange with white spots that contrast with the dark green leaves.
-Ecology: Birds eat the fruit and most game browse on the leaves. Butterfly larvae including the Natal bar, Silvery bar, Bowker's sapphire, Saffron sapphire, Brown playboy and Bush scarlet feed on the leaves.
-Interesting Points:  The fruit is tart but edible and can be made into jam, dessert and jelly. Oil from the seed is used for lamps. The nuts are also eaten. South African tree number 103.
-Other Links:
-http://pza.sanbi.org/ximenia-caffra
---
 EXTRA
 <p>As you walk toward the end of this trail, you enter a gully. Turn around and look at the trees. At the left there are two magnificent trees standing beside the road. Moving across the panorama, there are two trees of the same species. Finally, on the right, is a tree with a huge climbing vine. All these trees are featured in this trail. Can you name them?</p>
 <p class="upsidedown">Jacklaberry, enormous Apple Leaf, two Leadwood trees, Knob Thorn with climber.</p>
