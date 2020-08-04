@@ -171,14 +171,6 @@ EXTRA
 <p>War es richtig?</p>
 <p>Der Pfad führt weiter zu einem großen dunklen Felsen mit weißen Streifen. Hierbei handelt es sich um Amphibolit, definiert als Gestein, das durch die metamorphe Umwandlung von Basalt dessen Tiefenäquivalent unter Druck- und Temperaturbedingungen der Amphibolit-Fazies entstanden ist.</p>
 --
-Feldpflaume (Sour Plum) 
-Nr. 19 (95 m links) 
-Beschreibung: Der Laubbaum wird bis zu 6 m hoch, mit einer großen Baumkrone. Die Früchte sind oval und etwa 25 mm lang. Sie sind glänzend orange mit weißen Flecken und bewirken einen schönen Kontrast zu den dunkelgrünen Blättern. 
-Ökologie: Vögel fressen die Früchte und die meisten Pflanzenfresser bedienen sich an den Blättern. Die Schmetterlingslarven von «Natal bar, Silvery bar, Bowker's sapphire, Saffron sapphire, Brown playboy & Bush scarlet» fressen die Blätter. 
-Besonderes: Die Früchte sind säuerlich, aber essbar und können zur Herstellung von Konfiture, Desserts oder Gelee genutzt werden. Das Öl aus den Samen wird auch für Lampen verwendet. Die Nüsse können ebenfalls gegessen werden. Südafrikanische Baum Nr. 103.
-Link: 
-http://pza.sanbi.org/ximenia-caffra
---
 EXTRA
 <p>Wenn sie die Schlucht erreichen sind sie am Ende des Lehrpfades angelangt. Schauen sie sich nochmals um. Bestaunen sie die zwei prächtigen Bäume zu ihrer linken Seite bei der Straße. Folgen sie dem Panorama sehen sie nochmals zwei gleichartige Exemplare. Und zu ihrer Rechten finden sie einen großen Baum mit einer Weinrebe die daran hochklettert. Diese Bäume waren Teil des Lehrpfades, können sie sich noch an deren Namen erinnern?</p>
 <p class="upsidedown">Schakalbeeren Baum, grosser Apfelblatt Baum, Knotendorn Baum mit Kletterpflanze</p>
